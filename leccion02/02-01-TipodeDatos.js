@@ -58,3 +58,12 @@ class personas {
 console.log(typeof personas);
 console.log(personas);
 
+// tipo de dato UNDEFINED
+var x;
+console.log(typeof x);
+
+// NULL,es ausencia de valor,no tiene ningun tipo de dato
+// no es un tipo de dato,pero esta considerado que su origen es un tipo de dato OBJECT u objeto
+var y = null;
+console.log(y);
+console.log(typeof y);
