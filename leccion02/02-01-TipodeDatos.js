@@ -67,3 +67,16 @@ console.log(typeof x);
 var y = null;
 console.log(y);
 console.log(typeof y);
+
+//tipo de dato ARRAY ,son de tipo OBJETO ,lo definimos con corchete,pueden tener cualquier tipo
+// de dato
+
+var autos =['citroen','audi','ford'];
+console.log(autos);
+console.log(typeof autos);
+
+// empty String significa "una cadena vacia"
+
+var z = '';
+console.log(z);
+console.log(typeof z);
